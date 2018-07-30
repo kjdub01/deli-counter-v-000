@@ -1,4 +1,4 @@
-# Write your code here.https://learn.co/tracks/full-stack-web-development-v5/procedural-ruby/iteration/deli-counter-lab#
+# Write your code here.
 def line(katz_deli)
   if katz_deli.size == 0
     puts "The line is currently empty."
