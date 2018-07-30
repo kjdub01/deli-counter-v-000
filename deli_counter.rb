@@ -6,7 +6,7 @@ def line(katz_deli)
   else 
     other_deli = []
     katz_deli.each.with_index(1) do |name, number|
-      other_deli.push ( {# 
+      other_deli.push ( #{number} 
     end
     other_deli
   end
