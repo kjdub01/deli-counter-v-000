@@ -8,6 +8,7 @@ def line(katz_deli)
     katz_deli.each.with_index(1) do |name, number|
       other_deli << line = "The line is currently #{number}. #{name}"
     end
+    other_deli
   end
 end
 
